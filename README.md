@@ -1,4 +1,4 @@
-# [Font Awesome v4.6.3](http://fontawesome.io)
+# [Fork of Font Awesome v4.6.3](http://fontawesome.io)
 ### The iconic font and CSS framework
 
 Font Awesome is a full suite of 634 pictographic icons for easy scalable vector graphics on websites,
@@ -21,25 +21,6 @@ Get started at http://fontawesome.io!
 
 ## Changelog
 - [v4.6.3 GitHub pull request](https://github.com/FortAwesome/Font-Awesome/pull/9189)
-- [v4.6.2 GitHub pull request](https://github.com/FortAwesome/Font-Awesome/pull/9117)
-- [v4.6.1 GitHub pull request](https://github.com/FortAwesome/Font-Awesome/pull/8962)
-- [v4.6.0 GitHub milestones](https://github.com/FortAwesome/Font-Awesome/issues?q=milestone%3A4.6.0+is%3Aclosed)
-- [v4.5.0 GitHub milestones](https://github.com/FortAwesome/Font-Awesome/issues?q=milestone%3A4.5.0+is%3Aclosed)
-- [v4.4.0 GitHub milestones](https://github.com/FortAwesome/Font-Awesome/issues?q=milestone%3A4.4.0+is%3Aclosed)
-- [v4.3.0 GitHub milestones](https://github.com/FortAwesome/Font-Awesome/issues?q=milestone%3A4.3.0+is%3Aclosed)
-- [v4.2.0 GitHub milestones](https://github.com/FortAwesome/Font-Awesome/issues?milestone=12&page=1&state=closed)
-- [v4.1.0 GitHub milestones](https://github.com/FortAwesome/Font-Awesome/issues?milestone=6&page=1&state=closed)
-- [v4.0.3 GitHub milestones](https://github.com/FortAwesome/Font-Awesome/issues?milestone=9&page=1&state=closed)
-- [v4.0.2 GitHub milestones](https://github.com/FortAwesome/Font-Awesome/issues?milestone=8&page=1&state=closed)
-- [v4.0.1 GitHub milestones](https://github.com/FortAwesome/Font-Awesome/issues?milestone=7&page=1&state=closed)
-- [v4.0.0 GitHub milestones](https://github.com/FortAwesome/Font-Awesome/issues?milestone=2&page=1&state=closed)
-- [v3.2.1 GitHub milestones](https://github.com/FortAwesome/Font-Awesome/issues?milestone=5&page=1&state=closed)
-- [v3.2.0 GitHub milestones](https://github.com/FortAwesome/Font-Awesome/issues?milestone=3&page=1&state=closed)
-- [v3.1.1 GitHub milestones](https://github.com/FortAwesome/Font-Awesome/issues?milestone=4&page=1&state=closed)
-- v3.1.0 - Added 54 icons, icon stacking styles, flipping and rotating icons, removed Sass support
-- v3.0.2 - much improved rendering and alignment in IE7
-- v3.0.1 - much improved rendering in webkit, various bug fixes
-- v3.0.0 - all icons redesigned from scratch, optimized for Bootstrap's 14px default
 
 ## Contributing
 
@@ -61,7 +42,7 @@ And constructed with the following guidelines:
 
 For more information on SemVer, please visit http://semver.org.
 
-## Author
+## Original Author
 - Email: dave@fontawesome.io
 - Twitter: http://twitter.com/davegandy
 - GitHub: https://github.com/davegandy
